@@ -1,13 +1,11 @@
 # TP1 - IHC
 
-Curso:
+Curso: Sistema de Irformação
 
-Integrantes:
+Integrantes: Jhonatha Souza, Kayth Kariny, Susie Farias, Thiago Bruce
 
-Docente:
+Docente: Andrey 
 
-Sistema:
+Sistema: Siri Cascudo
 
-(Inserir objetivos do trabalho e especificar cada processo de avaliação)
 
-(Organizar links que levam para cada relatório e produto produzido neste trabalho)
